@@ -1,2 +1,6 @@
 version
+<<<<<<< Updated upstream
 *db
+=======
+*.db
+>>>>>>> Stashed changes
